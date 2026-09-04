@@ -1,0 +1,902 @@
+[
+  {
+    "id": "cust_001",
+    "previous_purchases": [
+      "product_032",
+      "product_025"
+    ],
+    "preferences": [
+      "Laptop",
+      "Phone Case"
+    ],
+    "average_order_value": 1700,
+    "browsing_history": [
+      "product_065",
+      "product_058",
+      "product_072"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_002",
+    "previous_purchases": [
+      "product_004",
+      "product_098"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Headphones"
+    ],
+    "average_order_value": 3567,
+    "browsing_history": [
+      "product_079",
+      "product_065",
+      "product_078"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_003",
+    "previous_purchases": [
+      "product_066",
+      "product_026"
+    ],
+    "preferences": [
+      "Laptop",
+      "Headphones"
+    ],
+    "average_order_value": 5062,
+    "browsing_history": [
+      "product_069",
+      "product_062",
+      "product_065"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_004",
+    "previous_purchases": [
+      "product_032",
+      "product_090"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Laptop"
+    ],
+    "average_order_value": 5483,
+    "browsing_history": [
+      "product_026",
+      "product_058",
+      "product_018"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_005",
+    "previous_purchases": [
+      "product_054",
+      "product_016"
+    ],
+    "preferences": [
+      "Headphones",
+      "Travel Accessory"
+    ],
+    "average_order_value": 3488,
+    "browsing_history": [
+      "product_010",
+      "product_086",
+      "product_031"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_006",
+    "previous_purchases": [
+      "product_055",
+      "product_010"
+    ],
+    "preferences": [
+      "Screen Protector",
+      "Laptop"
+    ],
+    "average_order_value": 1902,
+    "browsing_history": [
+      "product_100",
+      "product_020",
+      "product_092"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_007",
+    "previous_purchases": [
+      "product_083",
+      "product_085"
+    ],
+    "preferences": [
+      "Laptop",
+      "Screen Protector"
+    ],
+    "average_order_value": 2973,
+    "browsing_history": [
+      "product_018",
+      "product_060",
+      "product_029"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_008",
+    "previous_purchases": [
+      "product_096",
+      "product_013"
+    ],
+    "preferences": [
+      "Headphones",
+      "Travel Accessory"
+    ],
+    "average_order_value": 2233,
+    "browsing_history": [
+      "product_086",
+      "product_029",
+      "product_021"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_009",
+    "previous_purchases": [
+      "product_091",
+      "product_056"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Headphones"
+    ],
+    "average_order_value": 3678,
+    "browsing_history": [
+      "product_054",
+      "product_026",
+      "product_046"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_010",
+    "previous_purchases": [
+      "product_041",
+      "product_012"
+    ],
+    "preferences": [
+      "Laptop",
+      "Phone Case"
+    ],
+    "average_order_value": 3668,
+    "browsing_history": [
+      "product_071",
+      "product_059",
+      "product_057"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_011",
+    "previous_purchases": [
+      "product_091",
+      "product_003"
+    ],
+    "preferences": [
+      "Headphones",
+      "Laptop"
+    ],
+    "average_order_value": 5138,
+    "browsing_history": [
+      "product_080",
+      "product_038",
+      "product_066"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_012",
+    "previous_purchases": [
+      "product_009",
+      "product_015"
+    ],
+    "preferences": [
+      "Screen Protector",
+      "Phone Case"
+    ],
+    "average_order_value": 1588,
+    "browsing_history": [
+      "product_034",
+      "product_035",
+      "product_006"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_013",
+    "previous_purchases": [
+      "product_100",
+      "product_024"
+    ],
+    "preferences": [
+      "Laptop",
+      "Screen Protector"
+    ],
+    "average_order_value": 4359,
+    "browsing_history": [
+      "product_087",
+      "product_034",
+      "product_052"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_014",
+    "previous_purchases": [
+      "product_020",
+      "product_069"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Headphones"
+    ],
+    "average_order_value": 3579,
+    "browsing_history": [
+      "product_012",
+      "product_036",
+      "product_008"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_015",
+    "previous_purchases": [
+      "product_089",
+      "product_024"
+    ],
+    "preferences": [
+      "Headphones",
+      "Phone Case"
+    ],
+    "average_order_value": 3103,
+    "browsing_history": [
+      "product_003",
+      "product_082",
+      "product_012"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_016",
+    "previous_purchases": [
+      "product_034",
+      "product_011"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Screen Protector"
+    ],
+    "average_order_value": 1445,
+    "browsing_history": [
+      "product_034",
+      "product_016",
+      "product_059"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_017",
+    "previous_purchases": [
+      "product_002",
+      "product_044"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Headphones"
+    ],
+    "average_order_value": 3094,
+    "browsing_history": [
+      "product_080",
+      "product_017",
+      "product_006"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_018",
+    "previous_purchases": [
+      "product_068",
+      "product_091"
+    ],
+    "preferences": [
+      "Screen Protector",
+      "Phone Case"
+    ],
+    "average_order_value": 2222,
+    "browsing_history": [
+      "product_034",
+      "product_007",
+      "product_024"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_019",
+    "previous_purchases": [
+      "product_026",
+      "product_040"
+    ],
+    "preferences": [
+      "Laptop",
+      "Screen Protector"
+    ],
+    "average_order_value": 3275,
+    "browsing_history": [
+      "product_058",
+      "product_065",
+      "product_087"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_020",
+    "previous_purchases": [
+      "product_023",
+      "product_035"
+    ],
+    "preferences": [
+      "Laptop",
+      "Phone Case"
+    ],
+    "average_order_value": 2951,
+    "browsing_history": [
+      "product_005",
+      "product_002",
+      "product_003"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_021",
+    "previous_purchases": [
+      "product_094",
+      "product_065"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Screen Protector"
+    ],
+    "average_order_value": 5112,
+    "browsing_history": [
+      "product_061",
+      "product_032",
+      "product_058"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_022",
+    "previous_purchases": [
+      "product_014",
+      "product_085"
+    ],
+    "preferences": [
+      "Headphones",
+      "Travel Accessory"
+    ],
+    "average_order_value": 5372,
+    "browsing_history": [
+      "product_051",
+      "product_065",
+      "product_040"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_023",
+    "previous_purchases": [
+      "product_089",
+      "product_028"
+    ],
+    "preferences": [
+      "Screen Protector",
+      "Laptop"
+    ],
+    "average_order_value": 2527,
+    "browsing_history": [
+      "product_091",
+      "product_094",
+      "product_082"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_024",
+    "previous_purchases": [
+      "product_018",
+      "product_052"
+    ],
+    "preferences": [
+      "Laptop",
+      "Phone Case"
+    ],
+    "average_order_value": 1963,
+    "browsing_history": [
+      "product_002",
+      "product_010",
+      "product_081"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_025",
+    "previous_purchases": [
+      "product_095",
+      "product_033"
+    ],
+    "preferences": [
+      "Headphones",
+      "Screen Protector"
+    ],
+    "average_order_value": 1353,
+    "browsing_history": [
+      "product_011",
+      "product_086",
+      "product_049"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_026",
+    "previous_purchases": [
+      "product_065",
+      "product_086"
+    ],
+    "preferences": [
+      "Laptop",
+      "Screen Protector"
+    ],
+    "average_order_value": 3300,
+    "browsing_history": [
+      "product_006",
+      "product_059",
+      "product_024"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_027",
+    "previous_purchases": [
+      "product_021",
+      "product_035"
+    ],
+    "preferences": [
+      "Headphones",
+      "Phone Case"
+    ],
+    "average_order_value": 3056,
+    "browsing_history": [
+      "product_047",
+      "product_043",
+      "product_071"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_028",
+    "previous_purchases": [
+      "product_042",
+      "product_032"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Laptop"
+    ],
+    "average_order_value": 2684,
+    "browsing_history": [
+      "product_046",
+      "product_024",
+      "product_001"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_029",
+    "previous_purchases": [
+      "product_043",
+      "product_049"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Headphones"
+    ],
+    "average_order_value": 3184,
+    "browsing_history": [
+      "product_065",
+      "product_084",
+      "product_026"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_030",
+    "previous_purchases": [
+      "product_032",
+      "product_065"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Travel Accessory"
+    ],
+    "average_order_value": 3064,
+    "browsing_history": [
+      "product_012",
+      "product_019",
+      "product_052"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_031",
+    "previous_purchases": [
+      "product_076",
+      "product_006"
+    ],
+    "preferences": [
+      "Headphones",
+      "Phone Case"
+    ],
+    "average_order_value": 3354,
+    "browsing_history": [
+      "product_039",
+      "product_081",
+      "product_030"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_032",
+    "previous_purchases": [
+      "product_011",
+      "product_075"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Screen Protector"
+    ],
+    "average_order_value": 5787,
+    "browsing_history": [
+      "product_050",
+      "product_098",
+      "product_042"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_033",
+    "previous_purchases": [
+      "product_093",
+      "product_064"
+    ],
+    "preferences": [
+      "Screen Protector",
+      "Laptop"
+    ],
+    "average_order_value": 5968,
+    "browsing_history": [
+      "product_083",
+      "product_019",
+      "product_006"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_034",
+    "previous_purchases": [
+      "product_092",
+      "product_066"
+    ],
+    "preferences": [
+      "Headphones",
+      "Screen Protector"
+    ],
+    "average_order_value": 5190,
+    "browsing_history": [
+      "product_097",
+      "product_065",
+      "product_073"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_035",
+    "previous_purchases": [
+      "product_003",
+      "product_088"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Screen Protector"
+    ],
+    "average_order_value": 1597,
+    "browsing_history": [
+      "product_004",
+      "product_006",
+      "product_018"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_036",
+    "previous_purchases": [
+      "product_082",
+      "product_047"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Headphones"
+    ],
+    "average_order_value": 4597,
+    "browsing_history": [
+      "product_072",
+      "product_007",
+      "product_081"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_037",
+    "previous_purchases": [
+      "product_003",
+      "product_081"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Screen Protector"
+    ],
+    "average_order_value": 4908,
+    "browsing_history": [
+      "product_034",
+      "product_001",
+      "product_059"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_038",
+    "previous_purchases": [
+      "product_009",
+      "product_096"
+    ],
+    "preferences": [
+      "Travel Accessory",
+      "Phone Case"
+    ],
+    "average_order_value": 5208,
+    "browsing_history": [
+      "product_009",
+      "product_096",
+      "product_095"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_039",
+    "previous_purchases": [
+      "product_061",
+      "product_033"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Laptop"
+    ],
+    "average_order_value": 2823,
+    "browsing_history": [
+      "product_094",
+      "product_097",
+      "product_027"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_040",
+    "previous_purchases": [
+      "product_030",
+      "product_095"
+    ],
+    "preferences": [
+      "Headphones",
+      "Travel Accessory"
+    ],
+    "average_order_value": 4033,
+    "browsing_history": [
+      "product_010",
+      "product_062",
+      "product_088"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_041",
+    "previous_purchases": [
+      "product_037",
+      "product_099"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Screen Protector"
+    ],
+    "average_order_value": 1534,
+    "browsing_history": [
+      "product_077",
+      "product_019",
+      "product_043"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_042",
+    "previous_purchases": [
+      "product_033",
+      "product_084"
+    ],
+    "preferences": [
+      "Laptop",
+      "Screen Protector"
+    ],
+    "average_order_value": 1002,
+    "browsing_history": [
+      "product_062",
+      "product_008",
+      "product_063"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_043",
+    "previous_purchases": [
+      "product_035",
+      "product_087"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Screen Protector"
+    ],
+    "average_order_value": 4910,
+    "browsing_history": [
+      "product_038",
+      "product_091",
+      "product_067"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_044",
+    "previous_purchases": [
+      "product_037",
+      "product_060"
+    ],
+    "preferences": [
+      "Headphones",
+      "Travel Accessory"
+    ],
+    "average_order_value": 1870,
+    "browsing_history": [
+      "product_071",
+      "product_026",
+      "product_040"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_045",
+    "previous_purchases": [
+      "product_011",
+      "product_061"
+    ],
+    "preferences": [
+      "Phone Case",
+      "Laptop"
+    ],
+    "average_order_value": 4659,
+    "browsing_history": [
+      "product_010",
+      "product_065",
+      "product_058"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_046",
+    "previous_purchases": [
+      "product_035",
+      "product_050"
+    ],
+    "preferences": [
+      "Screen Protector",
+      "Travel Accessory"
+    ],
+    "average_order_value": 1511,
+    "browsing_history": [
+      "product_075",
+      "product_012",
+      "product_019"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_047",
+    "previous_purchases": [
+      "product_096",
+      "product_068"
+    ],
+    "preferences": [
+      "Laptop",
+      "Travel Accessory"
+    ],
+    "average_order_value": 1986,
+    "browsing_history": [
+      "product_078",
+      "product_081",
+      "product_066"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_048",
+    "previous_purchases": [
+      "product_036",
+      "product_015"
+    ],
+    "preferences": [
+      "Laptop",
+      "Screen Protector"
+    ],
+    "average_order_value": 4978,
+    "browsing_history": [
+      "product_063",
+      "product_051",
+      "product_004"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_049",
+    "previous_purchases": [
+      "product_021",
+      "product_001"
+    ],
+    "preferences": [
+      "Headphones",
+      "Travel Accessory"
+    ],
+    "average_order_value": 4221,
+    "browsing_history": [
+      "product_039",
+      "product_094",
+      "product_019"
+    ],
+    "cart_history": []
+  },
+  {
+    "id": "cust_050",
+    "previous_purchases": [
+      "product_054",
+      "product_045"
+    ],
+    "preferences": [
+      "Headphones",
+      "Laptop"
+    ],
+    "average_order_value": 1890,
+    "browsing_history": [
+      "product_043",
+      "product_001",
+      "product_042"
+    ],
+    "cart_history": []
+  }
+]

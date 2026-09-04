@@ -1,0 +1,1711 @@
+[
+  {
+    "id": "product_001",
+    "name": "Aero Samsung Galaxy S24 Ultra Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable samsung galaxy s24 ultra designed for everyday use.",
+    "price": 1499,
+    "stock": 46,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 70,
+    "margin_percent": 35
+  },
+  {
+    "id": "product_002",
+    "name": "Nova iPhone 15 Pro",
+    "category": "Smartphone",
+    "description": "Reliable iphone 15 pro designed for everyday use.",
+    "price": 1099,
+    "stock": 26,
+    "compatible_devices": [
+      "iPhone 15 Pro"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 97,
+    "margin_percent": 32
+  },
+  {
+    "id": "product_003",
+    "name": "Orbit Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable protective case designed for everyday use.",
+    "price": 1699,
+    "stock": 101,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "phone-case",
+      "quality",
+      "popular"
+    ],
+    "popularity": 82,
+    "margin_percent": 16
+  },
+  {
+    "id": "product_004",
+    "name": "Nova Samsung Galaxy S24 Ultra Tempered Glass",
+    "category": "Screen Protector",
+    "description": "Reliable tempered glass designed for everyday use.",
+    "price": 799,
+    "stock": 62,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "screen-protector",
+      "quality",
+      "popular"
+    ],
+    "popularity": 47,
+    "margin_percent": 17
+  },
+  {
+    "id": "product_005",
+    "name": "Aero Fast GaN Charger",
+    "category": "Charger",
+    "description": "Reliable fast gan charger designed for everyday use.",
+    "price": 5999,
+    "stock": 115,
+    "compatible_devices": [],
+    "tags": [
+      "charger",
+      "quality",
+      "popular"
+    ],
+    "popularity": 49,
+    "margin_percent": 22
+  },
+  {
+    "id": "product_006",
+    "name": "Nova USB-C Braided Cable",
+    "category": "USB Cable",
+    "description": "Reliable usb-c braided cable designed for everyday use.",
+    "price": 1599,
+    "stock": 149,
+    "compatible_devices": [],
+    "tags": [
+      "usb-cable",
+      "quality",
+      "popular"
+    ],
+    "popularity": 72,
+    "margin_percent": 16
+  },
+  {
+    "id": "product_007",
+    "name": "Orbit Power Bank 20000mAh",
+    "category": "Power Bank",
+    "description": "Reliable power bank 20000mah designed for everyday use.",
+    "price": 7699,
+    "stock": 39,
+    "compatible_devices": [],
+    "tags": [
+      "power-bank",
+      "quality",
+      "popular"
+    ],
+    "popularity": 59,
+    "margin_percent": 35
+  },
+  {
+    "id": "product_008",
+    "name": "Pulse Ultrabook",
+    "category": "Laptop",
+    "description": "Reliable ultrabook designed for everyday use.",
+    "price": 8499,
+    "stock": 23,
+    "compatible_devices": [],
+    "tags": [
+      "laptop",
+      "quality",
+      "popular"
+    ],
+    "popularity": 81,
+    "margin_percent": 33
+  },
+  {
+    "id": "product_009",
+    "name": "Aero Waterproof Laptop Sleeve",
+    "category": "Laptop Sleeve",
+    "description": "Reliable waterproof laptop sleeve designed for everyday use.",
+    "price": 5499,
+    "stock": 20,
+    "compatible_devices": [
+      "MacBook Air M3"
+    ],
+    "tags": [
+      "laptop-sleeve",
+      "quality",
+      "popular"
+    ],
+    "popularity": 59,
+    "margin_percent": 16
+  },
+  {
+    "id": "product_010",
+    "name": "Nova Wireless Mechanical Keyboard",
+    "category": "Keyboard",
+    "description": "Reliable wireless mechanical keyboard designed for everyday use.",
+    "price": 7599,
+    "stock": 42,
+    "compatible_devices": [],
+    "tags": [
+      "keyboard",
+      "quality",
+      "popular"
+    ],
+    "popularity": 63,
+    "margin_percent": 28
+  },
+  {
+    "id": "product_011",
+    "name": "Orbit Ergonomic Wireless Mouse",
+    "category": "Mouse",
+    "description": "Reliable ergonomic wireless mouse designed for everyday use.",
+    "price": 2299,
+    "stock": 146,
+    "compatible_devices": [],
+    "tags": [
+      "mouse",
+      "quality",
+      "popular"
+    ],
+    "popularity": 52,
+    "margin_percent": 33
+  },
+  {
+    "id": "product_012",
+    "name": "Pulse 7-in-1 USB-C Hub",
+    "category": "USB Hub",
+    "description": "Reliable 7-in-1 usb-c hub designed for everyday use.",
+    "price": 4399,
+    "stock": 54,
+    "compatible_devices": [],
+    "tags": [
+      "usb-hub",
+      "quality",
+      "popular"
+    ],
+    "popularity": 51,
+    "margin_percent": 33
+  },
+  {
+    "id": "product_013",
+    "name": "Aero Noise Cancelling Headphones",
+    "category": "Headphones",
+    "description": "Reliable noise cancelling headphones designed for everyday use.",
+    "price": 7799,
+    "stock": 56,
+    "compatible_devices": [],
+    "tags": [
+      "headphones",
+      "quality",
+      "popular"
+    ],
+    "popularity": 68,
+    "margin_percent": 18
+  },
+  {
+    "id": "product_014",
+    "name": "Nova Fitness Smart Watch",
+    "category": "Smart Watch",
+    "description": "Reliable fitness smart watch designed for everyday use.",
+    "price": 7499,
+    "stock": 24,
+    "compatible_devices": [],
+    "tags": [
+      "smart-watch",
+      "quality",
+      "popular"
+    ],
+    "popularity": 81,
+    "margin_percent": 16
+  },
+  {
+    "id": "product_015",
+    "name": "Orbit Universal Travel Adapter",
+    "category": "Travel Accessory",
+    "description": "Reliable universal travel adapter designed for everyday use.",
+    "price": 8399,
+    "stock": 60,
+    "compatible_devices": [],
+    "tags": [
+      "travel-accessory",
+      "quality",
+      "popular"
+    ],
+    "popularity": 76,
+    "margin_percent": 36
+  },
+  {
+    "id": "product_016",
+    "name": "Pulse Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "description": "Reliable samsung galaxy s24 ultra designed for everyday use.",
+    "price": 7299,
+    "stock": 117,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 94,
+    "margin_percent": 25
+  },
+  {
+    "id": "product_017",
+    "name": "Aero iPhone 15 Pro",
+    "category": "Smartphone",
+    "description": "Reliable iphone 15 pro designed for everyday use.",
+    "price": 6399,
+    "stock": 124,
+    "compatible_devices": [
+      "iPhone 15 Pro"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 68,
+    "margin_percent": 24
+  },
+  {
+    "id": "product_018",
+    "name": "Nova Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable protective case designed for everyday use.",
+    "price": 3599,
+    "stock": 0,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "phone-case",
+      "quality",
+      "popular"
+    ],
+    "popularity": 95,
+    "margin_percent": 20
+  },
+  {
+    "id": "product_019",
+    "name": "Orbit Tempered Glass",
+    "category": "Screen Protector",
+    "description": "Reliable tempered glass designed for everyday use.",
+    "price": 3599,
+    "stock": 28,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "screen-protector",
+      "quality",
+      "popular"
+    ],
+    "popularity": 81,
+    "margin_percent": 24
+  },
+  {
+    "id": "product_020",
+    "name": "Pulse Fast GaN Charger",
+    "category": "Charger",
+    "description": "Reliable fast gan charger designed for everyday use.",
+    "price": 7199,
+    "stock": 134,
+    "compatible_devices": [],
+    "tags": [
+      "charger",
+      "quality",
+      "popular"
+    ],
+    "popularity": 66,
+    "margin_percent": 38
+  },
+  {
+    "id": "product_021",
+    "name": "Aero USB-C Braided Cable",
+    "category": "USB Cable",
+    "description": "Reliable usb-c braided cable designed for everyday use.",
+    "price": 6199,
+    "stock": 81,
+    "compatible_devices": [],
+    "tags": [
+      "usb-cable",
+      "quality",
+      "popular"
+    ],
+    "popularity": 83,
+    "margin_percent": 17
+  },
+  {
+    "id": "product_022",
+    "name": "Nova Power Bank 20000mAh",
+    "category": "Power Bank",
+    "description": "Reliable power bank 20000mah designed for everyday use.",
+    "price": 1999,
+    "stock": 139,
+    "compatible_devices": [],
+    "tags": [
+      "power-bank",
+      "quality",
+      "popular"
+    ],
+    "popularity": 71,
+    "margin_percent": 20
+  },
+  {
+    "id": "product_023",
+    "name": "Orbit Ultrabook",
+    "category": "Laptop",
+    "description": "Reliable ultrabook designed for everyday use.",
+    "price": 4799,
+    "stock": 46,
+    "compatible_devices": [],
+    "tags": [
+      "laptop",
+      "quality",
+      "popular"
+    ],
+    "popularity": 76,
+    "margin_percent": 28
+  },
+  {
+    "id": "product_024",
+    "name": "Pulse Waterproof Laptop Sleeve",
+    "category": "Laptop Sleeve",
+    "description": "Reliable waterproof laptop sleeve designed for everyday use.",
+    "price": 999,
+    "stock": 27,
+    "compatible_devices": [
+      "MacBook Air M3"
+    ],
+    "tags": [
+      "laptop-sleeve",
+      "quality",
+      "popular"
+    ],
+    "popularity": 93,
+    "margin_percent": 32
+  },
+  {
+    "id": "product_025",
+    "name": "Aero Wireless Mechanical Keyboard",
+    "category": "Keyboard",
+    "description": "Reliable wireless mechanical keyboard designed for everyday use.",
+    "price": 7799,
+    "stock": 88,
+    "compatible_devices": [],
+    "tags": [
+      "keyboard",
+      "quality",
+      "popular"
+    ],
+    "popularity": 66,
+    "margin_percent": 37
+  },
+  {
+    "id": "product_026",
+    "name": "Nova Ergonomic Wireless Mouse",
+    "category": "Mouse",
+    "description": "Reliable ergonomic wireless mouse designed for everyday use.",
+    "price": 4899,
+    "stock": 135,
+    "compatible_devices": [],
+    "tags": [
+      "mouse",
+      "quality",
+      "popular"
+    ],
+    "popularity": 82,
+    "margin_percent": 40
+  },
+  {
+    "id": "product_027",
+    "name": "Orbit 7-in-1 USB-C Hub",
+    "category": "USB Hub",
+    "description": "Reliable 7-in-1 usb-c hub designed for everyday use.",
+    "price": 6299,
+    "stock": 25,
+    "compatible_devices": [],
+    "tags": [
+      "usb-hub",
+      "quality",
+      "popular"
+    ],
+    "popularity": 98,
+    "margin_percent": 17
+  },
+  {
+    "id": "product_028",
+    "name": "Pulse Noise Cancelling Headphones",
+    "category": "Headphones",
+    "description": "Reliable noise cancelling headphones designed for everyday use.",
+    "price": 3899,
+    "stock": 129,
+    "compatible_devices": [],
+    "tags": [
+      "headphones",
+      "quality",
+      "popular"
+    ],
+    "popularity": 89,
+    "margin_percent": 36
+  },
+  {
+    "id": "product_029",
+    "name": "Aero Fitness Smart Watch",
+    "category": "Smart Watch",
+    "description": "Reliable fitness smart watch designed for everyday use.",
+    "price": 1299,
+    "stock": 23,
+    "compatible_devices": [],
+    "tags": [
+      "smart-watch",
+      "quality",
+      "popular"
+    ],
+    "popularity": 91,
+    "margin_percent": 37
+  },
+  {
+    "id": "product_030",
+    "name": "Nova Universal Travel Adapter",
+    "category": "Travel Accessory",
+    "description": "Reliable universal travel adapter designed for everyday use.",
+    "price": 4399,
+    "stock": 122,
+    "compatible_devices": [],
+    "tags": [
+      "travel-accessory",
+      "quality",
+      "popular"
+    ],
+    "popularity": 63,
+    "margin_percent": 37
+  },
+  {
+    "id": "product_031",
+    "name": "Orbit Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "description": "Reliable samsung galaxy s24 ultra designed for everyday use.",
+    "price": 5399,
+    "stock": 96,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 46,
+    "margin_percent": 29
+  },
+  {
+    "id": "product_032",
+    "name": "Pulse iPhone 15 Pro",
+    "category": "Smartphone",
+    "description": "Reliable iphone 15 pro designed for everyday use.",
+    "price": 4999,
+    "stock": 51,
+    "compatible_devices": [
+      "iPhone 15 Pro"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 84,
+    "margin_percent": 18
+  },
+  {
+    "id": "product_033",
+    "name": "Aero Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable protective case designed for everyday use.",
+    "price": 6799,
+    "stock": 23,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "phone-case",
+      "quality",
+      "popular"
+    ],
+    "popularity": 58,
+    "margin_percent": 39
+  },
+  {
+    "id": "product_034",
+    "name": "Nova Tempered Glass",
+    "category": "Screen Protector",
+    "description": "Reliable tempered glass designed for everyday use.",
+    "price": 4099,
+    "stock": 41,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "screen-protector",
+      "quality",
+      "popular"
+    ],
+    "popularity": 92,
+    "margin_percent": 22
+  },
+  {
+    "id": "product_035",
+    "name": "Orbit Fast GaN Charger",
+    "category": "Charger",
+    "description": "Reliable fast gan charger designed for everyday use.",
+    "price": 5499,
+    "stock": 108,
+    "compatible_devices": [],
+    "tags": [
+      "charger",
+      "quality",
+      "popular"
+    ],
+    "popularity": 76,
+    "margin_percent": 17
+  },
+  {
+    "id": "product_036",
+    "name": "Pulse USB-C Braided Cable",
+    "category": "USB Cable",
+    "description": "Reliable usb-c braided cable designed for everyday use.",
+    "price": 2599,
+    "stock": 122,
+    "compatible_devices": [],
+    "tags": [
+      "usb-cable",
+      "quality",
+      "popular"
+    ],
+    "popularity": 70,
+    "margin_percent": 32
+  },
+  {
+    "id": "product_037",
+    "name": "Aero Power Bank 20000mAh",
+    "category": "Power Bank",
+    "description": "Reliable power bank 20000mah designed for everyday use.",
+    "price": 3999,
+    "stock": 43,
+    "compatible_devices": [],
+    "tags": [
+      "power-bank",
+      "quality",
+      "popular"
+    ],
+    "popularity": 97,
+    "margin_percent": 28
+  },
+  {
+    "id": "product_038",
+    "name": "Nova Ultrabook",
+    "category": "Laptop",
+    "description": "Reliable ultrabook designed for everyday use.",
+    "price": 7499,
+    "stock": 79,
+    "compatible_devices": [],
+    "tags": [
+      "laptop",
+      "quality",
+      "popular"
+    ],
+    "popularity": 90,
+    "margin_percent": 28
+  },
+  {
+    "id": "product_039",
+    "name": "Orbit Waterproof Laptop Sleeve",
+    "category": "Laptop Sleeve",
+    "description": "Reliable waterproof laptop sleeve designed for everyday use.",
+    "price": 4999,
+    "stock": 105,
+    "compatible_devices": [
+      "MacBook Air M3"
+    ],
+    "tags": [
+      "laptop-sleeve",
+      "quality",
+      "popular"
+    ],
+    "popularity": 59,
+    "margin_percent": 19
+  },
+  {
+    "id": "product_040",
+    "name": "Pulse Wireless Mechanical Keyboard",
+    "category": "Keyboard",
+    "description": "Reliable wireless mechanical keyboard designed for everyday use.",
+    "price": 1499,
+    "stock": 53,
+    "compatible_devices": [],
+    "tags": [
+      "keyboard",
+      "quality",
+      "popular"
+    ],
+    "popularity": 54,
+    "margin_percent": 22
+  },
+  {
+    "id": "product_041",
+    "name": "Aero Ergonomic Wireless Mouse",
+    "category": "Mouse",
+    "description": "Reliable ergonomic wireless mouse designed for everyday use.",
+    "price": 8899,
+    "stock": 67,
+    "compatible_devices": [],
+    "tags": [
+      "mouse",
+      "quality",
+      "popular"
+    ],
+    "popularity": 45,
+    "margin_percent": 30
+  },
+  {
+    "id": "product_042",
+    "name": "Nova 7-in-1 USB-C Hub",
+    "category": "USB Hub",
+    "description": "Reliable 7-in-1 usb-c hub designed for everyday use.",
+    "price": 7999,
+    "stock": 54,
+    "compatible_devices": [],
+    "tags": [
+      "usb-hub",
+      "quality",
+      "popular"
+    ],
+    "popularity": 61,
+    "margin_percent": 24
+  },
+  {
+    "id": "product_043",
+    "name": "Orbit Noise Cancelling Headphones",
+    "category": "Headphones",
+    "description": "Reliable noise cancelling headphones designed for everyday use.",
+    "price": 499,
+    "stock": 45,
+    "compatible_devices": [],
+    "tags": [
+      "headphones",
+      "quality",
+      "popular"
+    ],
+    "popularity": 71,
+    "margin_percent": 32
+  },
+  {
+    "id": "product_044",
+    "name": "Pulse Fitness Smart Watch",
+    "category": "Smart Watch",
+    "description": "Reliable fitness smart watch designed for everyday use.",
+    "price": 5199,
+    "stock": 89,
+    "compatible_devices": [],
+    "tags": [
+      "smart-watch",
+      "quality",
+      "popular"
+    ],
+    "popularity": 53,
+    "margin_percent": 37
+  },
+  {
+    "id": "product_045",
+    "name": "Aero Universal Travel Adapter",
+    "category": "Travel Accessory",
+    "description": "Reliable universal travel adapter designed for everyday use.",
+    "price": 6999,
+    "stock": 21,
+    "compatible_devices": [],
+    "tags": [
+      "travel-accessory",
+      "quality",
+      "popular"
+    ],
+    "popularity": 74,
+    "margin_percent": 42
+  },
+  {
+    "id": "product_046",
+    "name": "Nova Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "description": "Reliable samsung galaxy s24 ultra designed for everyday use.",
+    "price": 7599,
+    "stock": 108,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 70,
+    "margin_percent": 27
+  },
+  {
+    "id": "product_047",
+    "name": "Orbit iPhone 15 Pro",
+    "category": "Smartphone",
+    "description": "Reliable iphone 15 pro designed for everyday use.",
+    "price": 5499,
+    "stock": 34,
+    "compatible_devices": [
+      "iPhone 15 Pro"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 75,
+    "margin_percent": 35
+  },
+  {
+    "id": "product_048",
+    "name": "Pulse Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable protective case designed for everyday use.",
+    "price": 5599,
+    "stock": 23,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "phone-case",
+      "quality",
+      "popular"
+    ],
+    "popularity": 57,
+    "margin_percent": 17
+  },
+  {
+    "id": "product_049",
+    "name": "Aero Tempered Glass",
+    "category": "Screen Protector",
+    "description": "Reliable tempered glass designed for everyday use.",
+    "price": 3099,
+    "stock": 120,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "screen-protector",
+      "quality",
+      "popular"
+    ],
+    "popularity": 55,
+    "margin_percent": 18
+  },
+  {
+    "id": "product_050",
+    "name": "Nova Fast GaN Charger",
+    "category": "Charger",
+    "description": "Reliable fast gan charger designed for everyday use.",
+    "price": 4799,
+    "stock": 21,
+    "compatible_devices": [],
+    "tags": [
+      "charger",
+      "quality",
+      "popular"
+    ],
+    "popularity": 51,
+    "margin_percent": 15
+  },
+  {
+    "id": "product_051",
+    "name": "Orbit USB-C Braided Cable",
+    "category": "USB Cable",
+    "description": "Reliable usb-c braided cable designed for everyday use.",
+    "price": 7699,
+    "stock": 46,
+    "compatible_devices": [],
+    "tags": [
+      "usb-cable",
+      "quality",
+      "popular"
+    ],
+    "popularity": 79,
+    "margin_percent": 18
+  },
+  {
+    "id": "product_052",
+    "name": "Pulse Power Bank 20000mAh",
+    "category": "Power Bank",
+    "description": "Reliable power bank 20000mah designed for everyday use.",
+    "price": 5099,
+    "stock": 14,
+    "compatible_devices": [],
+    "tags": [
+      "power-bank",
+      "quality",
+      "popular"
+    ],
+    "popularity": 49,
+    "margin_percent": 42
+  },
+  {
+    "id": "product_053",
+    "name": "Aero Ultrabook",
+    "category": "Laptop",
+    "description": "Reliable ultrabook designed for everyday use.",
+    "price": 3099,
+    "stock": 104,
+    "compatible_devices": [],
+    "tags": [
+      "laptop",
+      "quality",
+      "popular"
+    ],
+    "popularity": 54,
+    "margin_percent": 35
+  },
+  {
+    "id": "product_054",
+    "name": "Nova Waterproof Laptop Sleeve",
+    "category": "Laptop Sleeve",
+    "description": "Reliable waterproof laptop sleeve designed for everyday use.",
+    "price": 3699,
+    "stock": 96,
+    "compatible_devices": [
+      "MacBook Air M3"
+    ],
+    "tags": [
+      "laptop-sleeve",
+      "quality",
+      "popular"
+    ],
+    "popularity": 83,
+    "margin_percent": 26
+  },
+  {
+    "id": "product_055",
+    "name": "Orbit Wireless Mechanical Keyboard",
+    "category": "Keyboard",
+    "description": "Reliable wireless mechanical keyboard designed for everyday use.",
+    "price": 6499,
+    "stock": 39,
+    "compatible_devices": [],
+    "tags": [
+      "keyboard",
+      "quality",
+      "popular"
+    ],
+    "popularity": 52,
+    "margin_percent": 42
+  },
+  {
+    "id": "product_056",
+    "name": "Pulse Ergonomic Wireless Mouse",
+    "category": "Mouse",
+    "description": "Reliable ergonomic wireless mouse designed for everyday use.",
+    "price": 6699,
+    "stock": 127,
+    "compatible_devices": [],
+    "tags": [
+      "mouse",
+      "quality",
+      "popular"
+    ],
+    "popularity": 75,
+    "margin_percent": 30
+  },
+  {
+    "id": "product_057",
+    "name": "Aero 7-in-1 USB-C Hub",
+    "category": "USB Hub",
+    "description": "Reliable 7-in-1 usb-c hub designed for everyday use.",
+    "price": 4399,
+    "stock": 29,
+    "compatible_devices": [],
+    "tags": [
+      "usb-hub",
+      "quality",
+      "popular"
+    ],
+    "popularity": 54,
+    "margin_percent": 18
+  },
+  {
+    "id": "product_058",
+    "name": "Nova Noise Cancelling Headphones",
+    "category": "Headphones",
+    "description": "Reliable noise cancelling headphones designed for everyday use.",
+    "price": 4799,
+    "stock": 75,
+    "compatible_devices": [],
+    "tags": [
+      "headphones",
+      "quality",
+      "popular"
+    ],
+    "popularity": 75,
+    "margin_percent": 41
+  },
+  {
+    "id": "product_059",
+    "name": "Orbit Fitness Smart Watch",
+    "category": "Smart Watch",
+    "description": "Reliable fitness smart watch designed for everyday use.",
+    "price": 2499,
+    "stock": 140,
+    "compatible_devices": [],
+    "tags": [
+      "smart-watch",
+      "quality",
+      "popular"
+    ],
+    "popularity": 46,
+    "margin_percent": 21
+  },
+  {
+    "id": "product_060",
+    "name": "Pulse Universal Travel Adapter",
+    "category": "Travel Accessory",
+    "description": "Reliable universal travel adapter designed for everyday use.",
+    "price": 7199,
+    "stock": 100,
+    "compatible_devices": [],
+    "tags": [
+      "travel-accessory",
+      "quality",
+      "popular"
+    ],
+    "popularity": 54,
+    "margin_percent": 37
+  },
+  {
+    "id": "product_061",
+    "name": "Aero Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "description": "Reliable samsung galaxy s24 ultra designed for everyday use.",
+    "price": 7399,
+    "stock": 14,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 93,
+    "margin_percent": 31
+  },
+  {
+    "id": "product_062",
+    "name": "Nova iPhone 15 Pro",
+    "category": "Smartphone",
+    "description": "Reliable iphone 15 pro designed for everyday use.",
+    "price": 4299,
+    "stock": 31,
+    "compatible_devices": [
+      "iPhone 15 Pro"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 89,
+    "margin_percent": 42
+  },
+  {
+    "id": "product_063",
+    "name": "Orbit Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable protective case designed for everyday use.",
+    "price": 3799,
+    "stock": 140,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "phone-case",
+      "quality",
+      "popular"
+    ],
+    "popularity": 68,
+    "margin_percent": 20
+  },
+  {
+    "id": "product_064",
+    "name": "Pulse Tempered Glass",
+    "category": "Screen Protector",
+    "description": "Reliable tempered glass designed for everyday use.",
+    "price": 4999,
+    "stock": 65,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "screen-protector",
+      "quality",
+      "popular"
+    ],
+    "popularity": 79,
+    "margin_percent": 32
+  },
+  {
+    "id": "product_065",
+    "name": "Aero Fast GaN Charger",
+    "category": "Charger",
+    "description": "Reliable fast gan charger designed for everyday use.",
+    "price": 6899,
+    "stock": 92,
+    "compatible_devices": [],
+    "tags": [
+      "charger",
+      "quality",
+      "popular"
+    ],
+    "popularity": 85,
+    "margin_percent": 22
+  },
+  {
+    "id": "product_066",
+    "name": "Nova USB-C Braided Cable",
+    "category": "USB Cable",
+    "description": "Reliable usb-c braided cable designed for everyday use.",
+    "price": 8299,
+    "stock": 57,
+    "compatible_devices": [],
+    "tags": [
+      "usb-cable",
+      "quality",
+      "popular"
+    ],
+    "popularity": 96,
+    "margin_percent": 22
+  },
+  {
+    "id": "product_067",
+    "name": "Orbit Power Bank 20000mAh",
+    "category": "Power Bank",
+    "description": "Reliable power bank 20000mah designed for everyday use.",
+    "price": 5599,
+    "stock": 66,
+    "compatible_devices": [],
+    "tags": [
+      "power-bank",
+      "quality",
+      "popular"
+    ],
+    "popularity": 57,
+    "margin_percent": 31
+  },
+  {
+    "id": "product_068",
+    "name": "Pulse Ultrabook",
+    "category": "Laptop",
+    "description": "Reliable ultrabook designed for everyday use.",
+    "price": 6799,
+    "stock": 99,
+    "compatible_devices": [],
+    "tags": [
+      "laptop",
+      "quality",
+      "popular"
+    ],
+    "popularity": 91,
+    "margin_percent": 15
+  },
+  {
+    "id": "product_069",
+    "name": "Aero Waterproof Laptop Sleeve",
+    "category": "Laptop Sleeve",
+    "description": "Reliable waterproof laptop sleeve designed for everyday use.",
+    "price": 799,
+    "stock": 79,
+    "compatible_devices": [
+      "MacBook Air M3"
+    ],
+    "tags": [
+      "laptop-sleeve",
+      "quality",
+      "popular"
+    ],
+    "popularity": 75,
+    "margin_percent": 23
+  },
+  {
+    "id": "product_070",
+    "name": "Nova Wireless Mechanical Keyboard",
+    "category": "Keyboard",
+    "description": "Reliable wireless mechanical keyboard designed for everyday use.",
+    "price": 2899,
+    "stock": 96,
+    "compatible_devices": [],
+    "tags": [
+      "keyboard",
+      "quality",
+      "popular"
+    ],
+    "popularity": 73,
+    "margin_percent": 40
+  },
+  {
+    "id": "product_071",
+    "name": "Orbit Ergonomic Wireless Mouse",
+    "category": "Mouse",
+    "description": "Reliable ergonomic wireless mouse designed for everyday use.",
+    "price": 4899,
+    "stock": 101,
+    "compatible_devices": [],
+    "tags": [
+      "mouse",
+      "quality",
+      "popular"
+    ],
+    "popularity": 50,
+    "margin_percent": 22
+  },
+  {
+    "id": "product_072",
+    "name": "Pulse 7-in-1 USB-C Hub",
+    "category": "USB Hub",
+    "description": "Reliable 7-in-1 usb-c hub designed for everyday use.",
+    "price": 1799,
+    "stock": 0,
+    "compatible_devices": [],
+    "tags": [
+      "usb-hub",
+      "quality",
+      "popular"
+    ],
+    "popularity": 59,
+    "margin_percent": 30
+  },
+  {
+    "id": "product_073",
+    "name": "Aero Noise Cancelling Headphones",
+    "category": "Headphones",
+    "description": "Reliable noise cancelling headphones designed for everyday use.",
+    "price": 2999,
+    "stock": 94,
+    "compatible_devices": [],
+    "tags": [
+      "headphones",
+      "quality",
+      "popular"
+    ],
+    "popularity": 58,
+    "margin_percent": 30
+  },
+  {
+    "id": "product_074",
+    "name": "Nova Fitness Smart Watch",
+    "category": "Smart Watch",
+    "description": "Reliable fitness smart watch designed for everyday use.",
+    "price": 8399,
+    "stock": 8,
+    "compatible_devices": [],
+    "tags": [
+      "smart-watch",
+      "quality",
+      "popular"
+    ],
+    "popularity": 75,
+    "margin_percent": 35
+  },
+  {
+    "id": "product_075",
+    "name": "Orbit Universal Travel Adapter",
+    "category": "Travel Accessory",
+    "description": "Reliable universal travel adapter designed for everyday use.",
+    "price": 4899,
+    "stock": 29,
+    "compatible_devices": [],
+    "tags": [
+      "travel-accessory",
+      "quality",
+      "popular"
+    ],
+    "popularity": 98,
+    "margin_percent": 36
+  },
+  {
+    "id": "product_076",
+    "name": "Pulse Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "description": "Reliable samsung galaxy s24 ultra designed for everyday use.",
+    "price": 1999,
+    "stock": 107,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 95,
+    "margin_percent": 37
+  },
+  {
+    "id": "product_077",
+    "name": "Aero iPhone 15 Pro",
+    "category": "Smartphone",
+    "description": "Reliable iphone 15 pro designed for everyday use.",
+    "price": 2999,
+    "stock": 130,
+    "compatible_devices": [
+      "iPhone 15 Pro"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 56,
+    "margin_percent": 28
+  },
+  {
+    "id": "product_078",
+    "name": "Nova Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable protective case designed for everyday use.",
+    "price": 8599,
+    "stock": 93,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "phone-case",
+      "quality",
+      "popular"
+    ],
+    "popularity": 50,
+    "margin_percent": 40
+  },
+  {
+    "id": "product_079",
+    "name": "Orbit Tempered Glass",
+    "category": "Screen Protector",
+    "description": "Reliable tempered glass designed for everyday use.",
+    "price": 5499,
+    "stock": 126,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "screen-protector",
+      "quality",
+      "popular"
+    ],
+    "popularity": 70,
+    "margin_percent": 38
+  },
+  {
+    "id": "product_080",
+    "name": "Pulse Fast GaN Charger",
+    "category": "Charger",
+    "description": "Reliable fast gan charger designed for everyday use.",
+    "price": 1499,
+    "stock": 48,
+    "compatible_devices": [],
+    "tags": [
+      "charger",
+      "quality",
+      "popular"
+    ],
+    "popularity": 55,
+    "margin_percent": 19
+  },
+  {
+    "id": "product_081",
+    "name": "Aero USB-C Braided Cable",
+    "category": "USB Cable",
+    "description": "Reliable usb-c braided cable designed for everyday use.",
+    "price": 799,
+    "stock": 46,
+    "compatible_devices": [],
+    "tags": [
+      "usb-cable",
+      "quality",
+      "popular"
+    ],
+    "popularity": 82,
+    "margin_percent": 29
+  },
+  {
+    "id": "product_082",
+    "name": "Nova Power Bank 20000mAh",
+    "category": "Power Bank",
+    "description": "Reliable power bank 20000mah designed for everyday use.",
+    "price": 8799,
+    "stock": 45,
+    "compatible_devices": [],
+    "tags": [
+      "power-bank",
+      "quality",
+      "popular"
+    ],
+    "popularity": 84,
+    "margin_percent": 41
+  },
+  {
+    "id": "product_083",
+    "name": "Orbit Ultrabook",
+    "category": "Laptop",
+    "description": "Reliable ultrabook designed for everyday use.",
+    "price": 8099,
+    "stock": 129,
+    "compatible_devices": [],
+    "tags": [
+      "laptop",
+      "quality",
+      "popular"
+    ],
+    "popularity": 87,
+    "margin_percent": 26
+  },
+  {
+    "id": "product_084",
+    "name": "Pulse Waterproof Laptop Sleeve",
+    "category": "Laptop Sleeve",
+    "description": "Reliable waterproof laptop sleeve designed for everyday use.",
+    "price": 2399,
+    "stock": 148,
+    "compatible_devices": [
+      "MacBook Air M3"
+    ],
+    "tags": [
+      "laptop-sleeve",
+      "quality",
+      "popular"
+    ],
+    "popularity": 80,
+    "margin_percent": 19
+  },
+  {
+    "id": "product_085",
+    "name": "Aero Wireless Mechanical Keyboard",
+    "category": "Keyboard",
+    "description": "Reliable wireless mechanical keyboard designed for everyday use.",
+    "price": 699,
+    "stock": 11,
+    "compatible_devices": [],
+    "tags": [
+      "keyboard",
+      "quality",
+      "popular"
+    ],
+    "popularity": 96,
+    "margin_percent": 38
+  },
+  {
+    "id": "product_086",
+    "name": "Nova Ergonomic Wireless Mouse",
+    "category": "Mouse",
+    "description": "Reliable ergonomic wireless mouse designed for everyday use.",
+    "price": 8799,
+    "stock": 34,
+    "compatible_devices": [],
+    "tags": [
+      "mouse",
+      "quality",
+      "popular"
+    ],
+    "popularity": 78,
+    "margin_percent": 38
+  },
+  {
+    "id": "product_087",
+    "name": "Orbit 7-in-1 USB-C Hub",
+    "category": "USB Hub",
+    "description": "Reliable 7-in-1 usb-c hub designed for everyday use.",
+    "price": 2199,
+    "stock": 119,
+    "compatible_devices": [],
+    "tags": [
+      "usb-hub",
+      "quality",
+      "popular"
+    ],
+    "popularity": 57,
+    "margin_percent": 41
+  },
+  {
+    "id": "product_088",
+    "name": "Pulse Noise Cancelling Headphones",
+    "category": "Headphones",
+    "description": "Reliable noise cancelling headphones designed for everyday use.",
+    "price": 3199,
+    "stock": 15,
+    "compatible_devices": [],
+    "tags": [
+      "headphones",
+      "quality",
+      "popular"
+    ],
+    "popularity": 61,
+    "margin_percent": 21
+  },
+  {
+    "id": "product_089",
+    "name": "Aero Fitness Smart Watch",
+    "category": "Smart Watch",
+    "description": "Reliable fitness smart watch designed for everyday use.",
+    "price": 4199,
+    "stock": 136,
+    "compatible_devices": [],
+    "tags": [
+      "smart-watch",
+      "quality",
+      "popular"
+    ],
+    "popularity": 60,
+    "margin_percent": 39
+  },
+  {
+    "id": "product_090",
+    "name": "Nova Universal Travel Adapter",
+    "category": "Travel Accessory",
+    "description": "Reliable universal travel adapter designed for everyday use.",
+    "price": 7999,
+    "stock": 91,
+    "compatible_devices": [],
+    "tags": [
+      "travel-accessory",
+      "quality",
+      "popular"
+    ],
+    "popularity": 61,
+    "margin_percent": 32
+  },
+  {
+    "id": "product_091",
+    "name": "Orbit Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "description": "Reliable samsung galaxy s24 ultra designed for everyday use.",
+    "price": 5799,
+    "stock": 41,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 48,
+    "margin_percent": 38
+  },
+  {
+    "id": "product_092",
+    "name": "Pulse iPhone 15 Pro",
+    "category": "Smartphone",
+    "description": "Reliable iphone 15 pro designed for everyday use.",
+    "price": 4999,
+    "stock": 125,
+    "compatible_devices": [
+      "iPhone 15 Pro"
+    ],
+    "tags": [
+      "smartphone",
+      "quality",
+      "popular"
+    ],
+    "popularity": 87,
+    "margin_percent": 33
+  },
+  {
+    "id": "product_093",
+    "name": "Aero Protective Case",
+    "category": "Phone Case",
+    "description": "Reliable protective case designed for everyday use.",
+    "price": 7099,
+    "stock": 115,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "phone-case",
+      "quality",
+      "popular"
+    ],
+    "popularity": 97,
+    "margin_percent": 31
+  },
+  {
+    "id": "product_094",
+    "name": "Nova Tempered Glass",
+    "category": "Screen Protector",
+    "description": "Reliable tempered glass designed for everyday use.",
+    "price": 2099,
+    "stock": 144,
+    "compatible_devices": [
+      "Samsung Galaxy S24 Ultra",
+      "Samsung Galaxy S24",
+      "iPhone 15 Pro",
+      "Pixel 8"
+    ],
+    "tags": [
+      "screen-protector",
+      "quality",
+      "popular"
+    ],
+    "popularity": 54,
+    "margin_percent": 31
+  },
+  {
+    "id": "product_095",
+    "name": "Orbit Fast GaN Charger",
+    "category": "Charger",
+    "description": "Reliable fast gan charger designed for everyday use.",
+    "price": 6999,
+    "stock": 12,
+    "compatible_devices": [],
+    "tags": [
+      "charger",
+      "quality",
+      "popular"
+    ],
+    "popularity": 73,
+    "margin_percent": 39
+  },
+  {
+    "id": "product_096",
+    "name": "Pulse USB-C Braided Cable",
+    "category": "USB Cable",
+    "description": "Reliable usb-c braided cable designed for everyday use.",
+    "price": 2799,
+    "stock": 9,
+    "compatible_devices": [],
+    "tags": [
+      "usb-cable",
+      "quality",
+      "popular"
+    ],
+    "popularity": 94,
+    "margin_percent": 40
+  },
+  {
+    "id": "product_097",
+    "name": "Aero Power Bank 20000mAh",
+    "category": "Power Bank",
+    "description": "Reliable power bank 20000mah designed for everyday use.",
+    "price": 2399,
+    "stock": 52,
+    "compatible_devices": [],
+    "tags": [
+      "power-bank",
+      "quality",
+      "popular"
+    ],
+    "popularity": 54,
+    "margin_percent": 30
+  },
+  {
+    "id": "product_098",
+    "name": "Nova Ultrabook",
+    "category": "Laptop",
+    "description": "Reliable ultrabook designed for everyday use.",
+    "price": 8399,
+    "stock": 38,
+    "compatible_devices": [],
+    "tags": [
+      "laptop",
+      "quality",
+      "popular"
+    ],
+    "popularity": 80,
+    "margin_percent": 16
+  },
+  {
+    "id": "product_099",
+    "name": "Orbit Waterproof Laptop Sleeve",
+    "category": "Laptop Sleeve",
+    "description": "Reliable waterproof laptop sleeve designed for everyday use.",
+    "price": 4599,
+    "stock": 140,
+    "compatible_devices": [
+      "MacBook Air M3"
+    ],
+    "tags": [
+      "laptop-sleeve",
+      "quality",
+      "popular"
+    ],
+    "popularity": 78,
+    "margin_percent": 32
+  },
+  {
+    "id": "product_100",
+    "name": "Pulse Wireless Mechanical Keyboard",
+    "category": "Keyboard",
+    "description": "Reliable wireless mechanical keyboard designed for everyday use.",
+    "price": 6599,
+    "stock": 35,
+    "compatible_devices": [],
+    "tags": [
+      "keyboard",
+      "quality",
+      "popular"
+    ],
+    "popularity": 80,
+    "margin_percent": 16
+  }
+]
